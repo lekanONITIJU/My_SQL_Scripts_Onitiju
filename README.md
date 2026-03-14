@@ -6,7 +6,7 @@ SQL scripts developed for extracting data from the sales database, which were al
 ## Objective
 To train the participants on how to manipulate, organise and analyze sales data.
 
-## Tools Used
+## Tool Used
 - SQL
 
 ## Skills Demonstrated
